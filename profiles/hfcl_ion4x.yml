@@ -10,4 +10,4 @@ feeds:
 packages:
   - ipq60xx
 include:
-  - ucentral-ap
+  - ucentral-olg

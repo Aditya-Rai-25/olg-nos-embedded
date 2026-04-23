@@ -8,6 +8,6 @@ feeds:
   - name: ipq807x
     path: ../../feeds/ipq807x_v5.4
 include:
-  - ucentral-ap
+  - ucentral-olg
 packages:
   - ipq60xx

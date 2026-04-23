@@ -7,6 +7,6 @@ image: bin/targets/ipq40xx/generic/openwrt-ipq40xx-generic-udaya_a5-id2-squashfs
 packages:
   - ipq40xx
 include:
-  - ucentral-ap
+  - ucentral-olg
   - hostapd
   - target-ipq40xx

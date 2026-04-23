@@ -11,6 +11,6 @@ packages:
   - ipq53xx
   - qca-ssdk-shell
 include:
-  - ucentral-ap
+  - ucentral-olg
 diffconfig: |
   CONFIG_KERNEL_IPQ_MEM_PROFILE=0

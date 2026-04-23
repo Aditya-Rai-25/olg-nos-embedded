@@ -1,6 +1,6 @@
-# OpenWiFi AP NOS
+# OpenWiFi OLG NOS
 
-OpenWrt-based access point network operating system (AP NOS) for TIP OpenWiFi.
+OpenWrt-based access point network operating system (OLG NOS) for TIP OpenWiFi.
 Read more at [openwifi.tip.build](https://openwifi.tip.build/).
 
 ## Building
@@ -71,13 +71,13 @@ Directories:
 - `patches/` - OpenWiFi patches applied during builds
 - `profiles/` - Per-target kernel configs, packages, and feeds
     - [wifi-ax](profiles/wifi-ax.yml): Wi-Fi AX packages
-    - [ucentral-ap](profiles/ucentral-ap.yml): uCentral packages
+    - [ucentral-olg](profiles/ucentral-olg.yml): uCentral packages
     - [x64_vm](profiles/x64_vm.yml): x86-64 VM image
 
 ### uCentral packages
 
-AP-NOS packages implementing the uCentral protocol include the following
+OLG-NOS packages implementing the uCentral protocol include the following
 repositories (refer to the [ucentral](feeds/ucentral/) feed for a full list):
-- ucentral-client: https://github.com/Telecominfraproject/wlan-ucentral-client
+- ucentral-client: https://github.com/Telecominfraproject/olg-ucentral-client
 - ucentral-schema: https://github.com/Telecominfraproject/wlan-ucentral-schema
 - ucentral-wifi: https://github.com/blogic/ucentral-wifi

@@ -12,6 +12,6 @@ packages:
   - e2fsprogs
   - losetup
 include:
-  - ucentral-ap
+  - ucentral-olg
 diffconfig: |
   CONFIG_KERNEL_IPQ_MEM_PROFILE=512

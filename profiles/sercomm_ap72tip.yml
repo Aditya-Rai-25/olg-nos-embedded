@@ -8,7 +8,7 @@ feeds:
   - name: qca
     path: ../../feeds/qca-wifi-7
 include:
-  - ucentral-ap
+  - ucentral-olg
 packages:
   - ipq53xx
 diffconfig: |

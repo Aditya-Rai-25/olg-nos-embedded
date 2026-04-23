@@ -10,7 +10,7 @@ feeds:
 packages:
   - mediatek
 include:
-  - ucentral-ap
+  - ucentral-olg
   - hostapd
 diffconfig: |  
   # CONFIG_PACKAGE_kmod-nft-offload is not set

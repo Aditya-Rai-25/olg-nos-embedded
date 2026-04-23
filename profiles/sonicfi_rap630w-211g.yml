@@ -8,7 +8,7 @@ feeds:
   - name: mediatek
     path: ../../feeds/mediatek-sdk
 include:
-  - ucentral-ap
+  - ucentral-olg
 packages:
   - mediatek
 diffconfig: |

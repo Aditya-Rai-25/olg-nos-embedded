@@ -11,7 +11,7 @@ feeds:
     path: ../../feeds/edgecore
 include:
   - wifi-ax-v54
-  - ucentral-ap
+  - ucentral-olg
 packages:
   - ipq50xx
   - afcd

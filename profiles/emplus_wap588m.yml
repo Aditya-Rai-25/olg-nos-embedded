@@ -13,7 +13,7 @@ packages:
   - lscpu
   - tree  
 include:
-  - ucentral-ap
+  - ucentral-olg
   - hostapd
 diffconfig: |
   CONFIG_BUSYBOX_CUSTOM=y

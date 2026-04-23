@@ -8,7 +8,7 @@ feeds:
   - name: ipq95xx
     path: ../../feeds/ipq95xx
 include:
-  - ucentral-ap
+  - ucentral-olg
 packages:
   - ipq95xx
   - iperf3
